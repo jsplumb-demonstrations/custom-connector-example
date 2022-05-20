@@ -1,0 +1,33 @@
+.demo {
+    width:600px;
+    height:600px;
+    outline:1px solid;
+    position:relative;
+}
+
+.w {
+    width:80px;
+    height:80px;
+    outline:1px solid;
+    position:absolute;
+}
+
+#w1 {
+    left:50px;
+    top:50px;
+}
+
+#w2 {
+    left:300px;
+    top:200px;
+}
+
+#w3 {
+    left:50px;
+    top:350px;
+}
+
+#w4 {
+    left:300px;
+    top:500px;
+}
